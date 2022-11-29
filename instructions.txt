@@ -1,0 +1,22 @@
+INSTRUCTIONS
+
+1. Connect to the internet.
+2. Click on the ctf.exe file. It will create 2 files (resources, flag) in your current working directory and open the CTF window.
+3. Start it and you will see 2nd page without pictures.
+4. Then close the exe file and run it again. 
+5. That's it...
+
+In summary, you just have to open the ctf.exe file, close it and open it again. That's it. :)
+
+
+JOURNEY
+
+1. You are entering a corridor. There are 13 rooms in it. You can choose one room at a time. Choose wisely.
+2. Look around the room. Find clues and find the flag.
+3. If you get 1st flag right, try to get the second and third flags.
+4. Analyze everything.
+4. Good luck!
+
+
+
+Follow me on GitHub: https://github.com/upekshaip
